@@ -31,3 +31,4 @@ Visualizations include bar charts, maps, tables, and custom visuals
 Designed for real-time exploration and interactivity
 
 ## 📊 Dashboard Preview
+![alt_text](https://github.com/KunalSawlani/Zomato-Analysis-PowerBI/blob/9e89d8c51d1156c46e3755f98522fd12718dbdf2/img1.png)
