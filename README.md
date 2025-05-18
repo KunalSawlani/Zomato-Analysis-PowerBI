@@ -32,3 +32,4 @@ Designed for real-time exploration and interactivity
 
 ## 📊 Dashboard Preview
 ![alt_text](https://github.com/KunalSawlani/Zomato-Analysis-PowerBI/blob/9e89d8c51d1156c46e3755f98522fd12718dbdf2/img1.png)
+![alt_text](https://github.com/KunalSawlani/Zomato-Analysis-PowerBI/blob/5e5f6cbb5d6470ba5fe55df9695753f073857213/Preview%201.png)
